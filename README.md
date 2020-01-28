@@ -1,2 +1,0 @@
-# Cybrary
-เรียน Cybrary
